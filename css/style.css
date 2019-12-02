@@ -1,0 +1,30 @@
+* {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+body {
+    background-size: 105%;
+}
+
+.btn-small {
+    margin-left: 20px;
+    background-color: green;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+}
+
+.btn-small:hover {
+    background-color: black;
+}
+
+.welcome-area {
+    font-size: 60px;
+    color: white;
+}
+
+#controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
