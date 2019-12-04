@@ -8,4 +8,3 @@ This is a game used to demonstrate my web dev skills.
 -JavaScript
 -Materialize
 -AJAX
-
