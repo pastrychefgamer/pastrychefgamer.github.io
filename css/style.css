@@ -3,7 +3,16 @@
 }
 
 body {
-    background-size: 105%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+input {
+    color: white;
+}
+li {
+    font-size: 20px;
 }
 
 .btn-small {
@@ -27,4 +36,9 @@ body {
     align-items: center;
     justify-content: center;
     height: 100px;
+}
+.description-container {
+    color: white;
+    justify-content: left;
+
 }
